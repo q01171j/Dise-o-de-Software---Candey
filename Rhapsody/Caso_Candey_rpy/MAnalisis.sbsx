@@ -1,0 +1,2845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 438fd42e-2735-4d3b-98c1-8c6d7e2557f9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MAnalisis</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:47:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:50:36</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<weakCGTime type="a">7.17.2021::22:47:46</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:0:55</strongCGTime>
+			<_defaultComposite type="s">GUID 788060e4-ae5a-44d1-8b4d-6e1fa744bc3b</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">7.17.2021::22:39:45</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID d5eadfd8-2ded-4fb7-96f3-b38a9640ec22</value>
+				<value>GUID ed0c39a1-bf00-4fea-9fec-edc7d460bbfb</value>
+				<value>GUID e51535bd-91d8-40f4-a377-a9bc1ca7f11b</value>
+				<value>GUID b99df077-9514-4e26-bd8f-6a5f08019ab8</value>
+				<value>GUID f6655ebe-8670-4ec9-a7eb-24814b1b449c</value>
+				<value>GUID 788060e4-ae5a-44d1-8b4d-6e1fa744bc3b</value>
+				<value>GUID ea5670f2-3273-435c-b8ac-3348b11919df</value>
+				<value>GUID 0f527a86-7375-4e5f-899b-53db3171471f</value>
+				<value>GUID a53c4305-c7be-481e-8224-a29c5e267f83</value>
+				<value>GUID 99e59e32-5b00-4f54-9e58-72a9a37f18ab</value>
+				<value>GUID 7fbf20e7-27ac-43de-ac48-f5e19efd8b2b</value>
+				<value>GUID 71427dc7-ac1a-4a8f-a101-505efa04fd2e</value>
+				<value>GUID 1e86a20f-c301-4d5e-b0db-2b774a8c4a84</value>
+				<value>GUID aa03e6dc-bde4-4de3-a8b6-4e026f75faf6</value>
+				<value>GUID 2e25cc14-2cb7-4d61-8800-0177d32ddc77</value>
+				<value>GUID 6a37eae1-916e-4988-9256-f004467d9d15</value>
+				<value>GUID c792e89c-4f31-4aa7-bc6e-b20a02626c96</value>
+				<value>GUID e36f0357-5680-4455-9d17-65dc2ab46145</value>
+				<value>GUID ca0c72b9-5e03-4bbd-8e30-1e3e71714883</value>
+				<value>GUID 118034f8-96b1-4964-99ae-cbaa6f232e5f</value>
+				<value>GUID 09827a74-3c63-45af-b4dc-080dc06f531e</value>
+				<value>GUID b8b3059d-56cc-4c00-b8e2-1c99dd95ba9e</value>
+				<value>GUID 6fdf6cb5-0fe9-4340-829f-fa33d7a82490</value>
+				<value>GUID cc7e6568-bfd8-4d9b-8cd5-80a9c15caf75</value>
+				<value>GUID 4a53e3b1-6c65-45f7-b432-4354bb893712</value>
+				<value>GUID c7c96419-f346-4a0b-9cad-a28e1eba0a8d</value>
+				<value>GUID 202bd4a5-7134-481f-82d2-b0a4a4ec64f5</value>
+				<value>GUID 23e59ae9-c8aa-4ac4-8e7b-038cfdf2d8eb</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDiagram type="e">
+			<_id type="a">GUID d5eadfd8-2ded-4fb7-96f3-b38a9640ec22</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Package</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,216,151</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">Arquitectura del Diseno</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:41:32</_modifiedTime>
+			<_lastModifiedTime type="a">7.17.2021::22:41:32</_lastModifiedTime>
+			<m_hReferencedDiagram type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_hReferencedDiagram>
+			<_defaultSubsystem type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 438fd42e-2735-4d3b-98c1-8c6d7e2557f9</_hid>
+				</IHandle>
+			</_defaultSubsystem>
+			<AggregatesList type="e">
+				<value>GUID 77e18607-be96-4eb4-a7a9-cc27b144f4fd</value>
+			</AggregatesList>
+		</IDiagram>
+		<CGIClassChart type="e">
+			<_id type="a">GUID 77e18607-be96-4eb4-a7a9-cc27b144f4fd</_id>
+			<m_type type="a">0</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID d5eadfd8-2ded-4fb7-96f3-b38a9640ec22</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<elementList type="a">5</elementList>
+			
+			<m_access type="a">'Z'</m_access>
+			<m_modified type="a">'N'</m_modified>
+			<m_nModifyDate type="a">0</m_nModifyDate>
+			<m_nCreateDate type="a">0</m_nCreateDate>
+			<m_bScaleWithZoom type="a">1</m_bScaleWithZoom>
+			<m_arrowStyle type="a">'S'</m_arrowStyle>
+			<m_pRoot type="s">GUID 3ed8c64e-eedb-4609-b3fb-76e4e0e0f0e9</m_pRoot>
+			<m_currentLeftTop type="a">0 0 </m_currentLeftTop>
+			<m_currentRightBottom type="a">0 0 </m_currentRightBottom>
+			<m_bFreezeCompartmentContent type="a">0</m_bFreezeCompartmentContent>
+			<AggregatesList type="e">
+				<value>GUID 3ed8c64e-eedb-4609-b3fb-76e4e0e0f0e9</value>
+				<value>GUID 5e5edca2-4f35-4924-b589-c947f9e55c24</value>
+				<value>GUID f57cf7c3-047d-4763-a035-72d59d6ed0d6</value>
+				<value>GUID e4f60022-a8eb-4114-85c2-d425b6320a24</value>
+				<value>GUID 923462d4-6685-4488-918f-5617d63e7bcd</value>
+			</AggregatesList>
+		</CGIClassChart>
+		<CGIClass type="e">
+			<_id type="a">GUID 3ed8c64e-eedb-4609-b3fb-76e4e0e0f0e9</_id>
+			<m_type type="a">78</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 788060e4-ae5a-44d1-8b4d-6e1fa744bc3b</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">TopLevel</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">0 </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Operations>
+		</CGIClass>
+		<CGIPackage type="e">
+			<_id type="a">GUID 5e5edca2-4f35-4924-b589-c947f9e55c24</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Package</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,0,0</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.Transparent_Fill</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<m_type type="a">127</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis</_hsubsystem>
+					<_hname type="a">Seguridad</_hname>
+					<_hid type="a">GUID ed0c39a1-bf00-4fea-9fec-edc7d460bbfb</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 3ed8c64e-eedb-4609-b3fb-76e4e0e0f0e9</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Seguridad</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_transform type="a">0.177632 0 0 0.13119 38 62 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIPackage>
+		<CGIPackage type="e">
+			<_id type="a">GUID f57cf7c3-047d-4763-a035-72d59d6ed0d6</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Package</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">60,179,113</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.Transparent_Fill</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<m_type type="a">127</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Gestion_Catalogo.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis</_hsubsystem>
+					<_hname type="a">Gestion_Catalogo</_hname>
+					<_hid type="a">GUID e51535bd-91d8-40f4-a377-a9bc1ca7f11b</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 3ed8c64e-eedb-4609-b3fb-76e4e0e0f0e9</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Gestion_Catalogo</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_transform type="a">0.177632 0 0 0.13119 316 62 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIPackage>
+		<CGIPackage type="e">
+			<_id type="a">GUID e4f60022-a8eb-4114-85c2-d425b6320a24</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Package</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">128,0,128</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.Transparent_Fill</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<m_type type="a">127</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Gestion_Inventario.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis</_hsubsystem>
+					<_hname type="a">Gestion_Inventario</_hname>
+					<_hid type="a">GUID b99df077-9514-4e26-bd8f-6a5f08019ab8</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 3ed8c64e-eedb-4609-b3fb-76e4e0e0f0e9</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Gestion_Inventario</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_transform type="a">0.177632 0 0 0.13119 38 312 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIPackage>
+		<CGIPackage type="e">
+			<_id type="a">GUID 923462d4-6685-4488-918f-5617d63e7bcd</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Package</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,0</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.Transparent_Fill</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<m_type type="a">127</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Reportes_Control.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis</_hsubsystem>
+					<_hname type="a">Reportes_Control</_hname>
+					<_hid type="a">GUID f6655ebe-8670-4ec9-a7eb-24814b1b449c</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 3ed8c64e-eedb-4609-b3fb-76e4e0e0f0e9</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Reportes_Control</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_transform type="a">0.177632 0 0 0.13119 316 312 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIPackage>
+		<ISubsystem type="e">
+			<fileName type="a">Seguridad</fileName>
+			<_id type="a">GUID ed0c39a1-bf00-4fea-9fec-edc7d460bbfb</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">Gestion_Catalogo</fileName>
+			<_id type="a">GUID e51535bd-91d8-40f4-a377-a9bc1ca7f11b</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">Gestion_Inventario</fileName>
+			<_id type="a">GUID b99df077-9514-4e26-bd8f-6a5f08019ab8</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">Reportes_Control</fileName>
+			<_id type="a">GUID f6655ebe-8670-4ec9-a7eb-24814b1b449c</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 788060e4-ae5a-44d1-8b4d-6e1fa744bc3b</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID ea5670f2-3273-435c-b8ac-3348b11919df</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CI_INGRESAR</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Boundary</_hname>
+							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:23:18</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Seguridad</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S11</_hname>
+					<_hid type="a">GUID 4bfe0f90-4cee-4ba7-8616-b1be080b1e20</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:23:18</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:23:18</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:6:51</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 0b7ce3bf-1bd7-4a80-9998-7eb38b7f39bb</value>
+				<value>GUID 8339fa0e-9520-46fb-a054-87a05afd15d7</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 0b7ce3bf-1bd7-4a80-9998-7eb38b7f39bb</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_SEGURIDAD</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:8:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:8:0</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 0f527a86-7375-4e5f-899b-53db3171471f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID fb111f8d-3b62-4ff6-9a14-c165682092e2</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 8339fa0e-9520-46fb-a054-87a05afd15d7</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsAdministrador</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:23:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:23:18</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID 23e59ae9-c8aa-4ac4-8e7b-038cfdf2d8eb</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 0f54d79d-0f7a-46fe-8b00-b5610605f241</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 0f527a86-7375-4e5f-899b-53db3171471f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CC_SEGURIDAD</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Control</_hname>
+							<_hid type="a">GUID 83c41daa-5f8e-446a-a638-1dc09ef00861</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:8:8</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Seguridad</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S11</_hname>
+					<_hid type="a">GUID 4bfe0f90-4cee-4ba7-8616-b1be080b1e20</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:8:8</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:8:8</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:7:43</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID fb111f8d-3b62-4ff6-9a14-c165682092e2</value>
+				<value>GUID 17afa420-2a8e-4270-8d1d-d75d9fa1244d</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID fb111f8d-3b62-4ff6-9a14-c165682092e2</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_INGRESAR</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:8:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:8:0</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID ea5670f2-3273-435c-b8ac-3348b11919df</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 0b7ce3bf-1bd7-4a80-9998-7eb38b7f39bb</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 17afa420-2a8e-4270-8d1d-d75d9fa1244d</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsUSUARIO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:8:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:8:8</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID a53c4305-c7be-481e-8224-a29c5e267f83</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 1358bdd6-4111-430b-aec8-8c78b30e2fdd</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID a53c4305-c7be-481e-8224-a29c5e267f83</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">USUARIO</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Entity</_hname>
+							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:37:19</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Seguridad</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S11</_hname>
+					<_hid type="a">GUID 4bfe0f90-4cee-4ba7-8616-b1be080b1e20</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:37:19</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:37:19</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:7:47</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 1358bdd6-4111-430b-aec8-8c78b30e2fdd</value>
+				<value>GUID 756d9d86-90a4-4287-9b06-6cadd3845373</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 1358bdd6-4111-430b-aec8-8c78b30e2fdd</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_SEGURIDAD</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:8:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:8:8</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 0f527a86-7375-4e5f-899b-53db3171471f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 17afa420-2a8e-4270-8d1d-d75d9fa1244d</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 756d9d86-90a4-4287-9b06-6cadd3845373</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GESTIONARINVENTARIO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:37:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:37:19</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b8b3059d-56cc-4c00-b8e2-1c99dd95ba9e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 3cbbb075-fed6-47f2-bd56-bcb5d914706a</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 99e59e32-5b00-4f54-9e58-72a9a37f18ab</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CI_FORMULARIOPRODUCTOS</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Boundary</_hname>
+							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:26:49</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Catalogo.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Catalogo</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S1-2-7</_hname>
+					<_hid type="a">GUID 8b1e78c8-8f4c-4d2e-bc52-0f47e1e4ea94</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:26:49</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:26:49</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:22:29</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 71661caa-fe2e-45ba-a64a-aeee09c90e39</value>
+				<value>GUID 387ba069-4228-47f2-8955-ce203f062ea8</value>
+				<value>GUID c9e60775-de6a-40e0-8150-96db34173246</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 71661caa-fe2e-45ba-a64a-aeee09c90e39</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_GESTIONPRODUCTOS</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:24:5</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:24:5</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 71427dc7-ac1a-4a8f-a101-505efa04fd2e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 678c95fe-aede-43c9-b45e-8ca639e92998</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 387ba069-4228-47f2-8955-ce203f062ea8</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GESTIONARPRODUCTO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:24:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:24:52</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 2e25cc14-2cb7-4d61-8800-0177d32ddc77</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 71376aef-4c26-46e3-b3b9-46b338e79a02</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID c9e60775-de6a-40e0-8150-96db34173246</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_FORMULARIOPROVEEDOR</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:26:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:26:49</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 7fbf20e7-27ac-43de-ac48-f5e19efd8b2b</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 46b8f1d8-b3e8-4707-a951-f3852d507f39</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 7fbf20e7-27ac-43de-ac48-f5e19efd8b2b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CI_FORMULARIOPROVEEDOR</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Boundary</_hname>
+							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:27:24</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Catalogo.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Catalogo</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S1-2-7</_hname>
+					<_hid type="a">GUID 8b1e78c8-8f4c-4d2e-bc52-0f47e1e4ea94</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:27:24</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:27:24</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:22:29</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 46b8f1d8-b3e8-4707-a951-f3852d507f39</value>
+				<value>GUID cce16844-2eae-434f-9ce1-a13aa18d363a</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 46b8f1d8-b3e8-4707-a951-f3852d507f39</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_FORMULARIOPRODUCTOS</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:26:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:26:49</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 99e59e32-5b00-4f54-9e58-72a9a37f18ab</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID c9e60775-de6a-40e0-8150-96db34173246</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID cce16844-2eae-434f-9ce1-a13aa18d363a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GESTIONARPROVEEDOR</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:27:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:27:24</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 6a37eae1-916e-4988-9256-f004467d9d15</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 7c3c7e46-bd2b-48a2-a86c-9b40490cb001</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 71427dc7-ac1a-4a8f-a101-505efa04fd2e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CI_GESTIONPRODUCTOS</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Boundary</_hname>
+							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:24:45</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Catalogo.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Catalogo</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S1-2-7</_hname>
+					<_hid type="a">GUID 8b1e78c8-8f4c-4d2e-bc52-0f47e1e4ea94</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:24:45</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:24:45</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:22:29</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 3cecb3c2-b5d6-441d-9444-27d7f9d95627</value>
+				<value>GUID 678c95fe-aede-43c9-b45e-8ca639e92998</value>
+				<value>GUID 6aad4528-1a70-49f7-8160-10c6f9e611f0</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 3cecb3c2-b5d6-441d-9444-27d7f9d95627</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENUPRINCIPAL</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:23:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:23:45</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID aa03e6dc-bde4-4de3-a8b6-4e026f75faf6</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 31bbad50-3439-4e5c-8d96-2d0116374d16</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 678c95fe-aede-43c9-b45e-8ca639e92998</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_FORMULARIOPRODUCTOS</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:24:5</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:24:5</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 99e59e32-5b00-4f54-9e58-72a9a37f18ab</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 71661caa-fe2e-45ba-a64a-aeee09c90e39</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 6aad4528-1a70-49f7-8160-10c6f9e611f0</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GESTIONARPRODUCTO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:24:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:24:45</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 2e25cc14-2cb7-4d61-8800-0177d32ddc77</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 305edc51-7d6f-408d-926f-394525bf6378</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 1e86a20f-c301-4d5e-b0db-2b774a8c4a84</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CI_GESTIONPROVEEDORES</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Boundary</_hname>
+							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:27:13</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Catalogo.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Catalogo</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S1-2-7</_hname>
+					<_hid type="a">GUID 8b1e78c8-8f4c-4d2e-bc52-0f47e1e4ea94</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:27:13</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:27:13</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:22:29</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 3881514e-da64-4ada-b958-9d50d6396fed</value>
+				<value>GUID 8cf01498-adce-48e9-8d76-cb84d3341dbf</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 3881514e-da64-4ada-b958-9d50d6396fed</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENUPRINCIPAL</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:27:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:27:3</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID aa03e6dc-bde4-4de3-a8b6-4e026f75faf6</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 1574d133-4085-4bac-9bfa-7cb91a682469</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 8cf01498-adce-48e9-8d76-cb84d3341dbf</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GESTIONARPROVEEDOR</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:27:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:27:13</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 6a37eae1-916e-4988-9256-f004467d9d15</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID bf6e82ac-b526-4819-9238-f7d1444c5650</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID aa03e6dc-bde4-4de3-a8b6-4e026f75faf6</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CI_MENUPRINCIPAL</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Boundary</_hname>
+							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:44:27</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Catalogo.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Catalogo</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S1-2-7</_hname>
+					<_hid type="a">GUID 8b1e78c8-8f4c-4d2e-bc52-0f47e1e4ea94</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:44:27</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:44:27</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:22:29</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 82726713-ed78-4aa6-bc51-6ba1408b28fa</value>
+				<value>GUID 31bbad50-3439-4e5c-8d96-2d0116374d16</value>
+				<value>GUID 1574d133-4085-4bac-9bfa-7cb91a682469</value>
+				<value>GUID 953aa2ef-dee2-4143-ae5d-b61de13e84dc</value>
+				<value>GUID fcfcecb7-3a1d-491c-b487-805335cf12c6</value>
+				<value>GUID 30d4e789-5dd9-41e3-af9f-02a00732a5af</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 82726713-ed78-4aa6-bc51-6ba1408b28fa</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsAdministrador</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:23:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:23:34</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID 23e59ae9-c8aa-4ac4-8e7b-038cfdf2d8eb</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 24b1ecca-651e-45da-a4b6-82e7d4194a0e</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 31bbad50-3439-4e5c-8d96-2d0116374d16</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_GESTIONPRODUCTOS</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:23:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:23:45</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 71427dc7-ac1a-4a8f-a101-505efa04fd2e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 3cecb3c2-b5d6-441d-9444-27d7f9d95627</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 1574d133-4085-4bac-9bfa-7cb91a682469</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_GESTIONPROVEEDORES</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:27:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:27:3</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 1e86a20f-c301-4d5e-b0db-2b774a8c4a84</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 3881514e-da64-4ada-b958-9d50d6396fed</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 953aa2ef-dee2-4143-ae5d-b61de13e84dc</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_PANELINVENTARIO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:33:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:33:17</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 118034f8-96b1-4964-99ae-cbaa6f232e5f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 5822550b-01cb-443c-aad0-de551cbb74fb</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID fcfcecb7-3a1d-491c-b487-805335cf12c6</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_HISTORIALMOVIMIENTOS</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:37:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:37:41</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID ca0c72b9-5e03-4bbd-8e30-1e3e71714883</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 611d448e-8fe9-4214-9bf2-f21c0ce34058</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 30d4e789-5dd9-41e3-af9f-02a00732a5af</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_PANELREPORTES</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:44:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:44:27</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 4a53e3b1-6c65-45f7-b432-4354bb893712</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 6b665170-f8f7-4129-99af-e7f4f1065921</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 2e25cc14-2cb7-4d61-8800-0177d32ddc77</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CC_GESTIONARPRODUCTO</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Control</_hname>
+							<_hid type="a">GUID 83c41daa-5f8e-446a-a638-1dc09ef00861</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:25:3</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Catalogo.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Catalogo</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S1-2-7</_hname>
+					<_hid type="a">GUID 8b1e78c8-8f4c-4d2e-bc52-0f47e1e4ea94</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:25:3</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:25:3</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:22:29</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 305edc51-7d6f-408d-926f-394525bf6378</value>
+				<value>GUID 71376aef-4c26-46e3-b3b9-46b338e79a02</value>
+				<value>GUID ce11710f-004d-4b87-be4f-2fe729311a8c</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 305edc51-7d6f-408d-926f-394525bf6378</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_GESTIONPRODUCTOS</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:24:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:24:45</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 71427dc7-ac1a-4a8f-a101-505efa04fd2e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 6aad4528-1a70-49f7-8160-10c6f9e611f0</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 71376aef-4c26-46e3-b3b9-46b338e79a02</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_FORMULARIOPRODUCTOS</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:24:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:24:52</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 99e59e32-5b00-4f54-9e58-72a9a37f18ab</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 387ba069-4228-47f2-8955-ce203f062ea8</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID ce11710f-004d-4b87-be4f-2fe729311a8c</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsPRODUCTO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:25:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:25:3</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID c792e89c-4f31-4aa7-bc6e-b20a02626c96</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID ef3a5a3c-ff07-43aa-bdba-27ec2f72dbf9</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 6a37eae1-916e-4988-9256-f004467d9d15</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CC_GESTIONARPROVEEDOR</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Control</_hname>
+							<_hid type="a">GUID 83c41daa-5f8e-446a-a638-1dc09ef00861</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:27:33</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Catalogo.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Catalogo</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S1-2-7</_hname>
+					<_hid type="a">GUID 8b1e78c8-8f4c-4d2e-bc52-0f47e1e4ea94</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:27:33</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">7.17.2021::22:27:33</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:22:29</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID bf6e82ac-b526-4819-9238-f7d1444c5650</value>
+				<value>GUID 7c3c7e46-bd2b-48a2-a86c-9b40490cb001</value>
+				<value>GUID d825f71c-e5da-433f-847b-f01d59a871fc</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID bf6e82ac-b526-4819-9238-f7d1444c5650</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_GESTIONPROVEEDORES</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:27:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:27:13</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 1e86a20f-c301-4d5e-b0db-2b774a8c4a84</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 8cf01498-adce-48e9-8d76-cb84d3341dbf</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 7c3c7e46-bd2b-48a2-a86c-9b40490cb001</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_FORMULARIOPROVEEDOR</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:27:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:27:24</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 7fbf20e7-27ac-43de-ac48-f5e19efd8b2b</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID cce16844-2eae-434f-9ce1-a13aa18d363a</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID d825f71c-e5da-433f-847b-f01d59a871fc</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsPROVEEDOR</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:27:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:27:33</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID e36f0357-5680-4455-9d17-65dc2ab46145</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 4318b93a-796c-4406-925f-f123732ce492</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID c792e89c-4f31-4aa7-bc6e-b20a02626c96</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PRODUCTO</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Entity</_hname>
+							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:45:3</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Catalogo.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Catalogo</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S1-2-7</_hname>
+					<_hid type="a">GUID 8b1e78c8-8f4c-4d2e-bc52-0f47e1e4ea94</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:45:3</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:45:3</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:22:29</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID ef3a5a3c-ff07-43aa-bdba-27ec2f72dbf9</value>
+				<value>GUID 4ea1fa0a-5cbc-4d07-aa4a-9151481c6e94</value>
+				<value>GUID 19c2fec6-ce78-4232-aa2f-94e8e6dbbb9d</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID ef3a5a3c-ff07-43aa-bdba-27ec2f72dbf9</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GESTIONARPRODUCTO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:25:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:25:3</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 2e25cc14-2cb7-4d61-8800-0177d32ddc77</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID ce11710f-004d-4b87-be4f-2fe729311a8c</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 4ea1fa0a-5cbc-4d07-aa4a-9151481c6e94</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GESTIONARINVENTARIO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:34:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:34:53</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b8b3059d-56cc-4c00-b8e2-1c99dd95ba9e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 6b3f0613-e75d-427e-bd7c-a4c81898da3d</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 19c2fec6-ce78-4232-aa2f-94e8e6dbbb9d</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GENERARREPORTE</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:45:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:45:3</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 202bd4a5-7134-481f-82d2-b0a4a4ec64f5</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 282d4dfe-7791-42af-b6e2-882b1a5c41cd</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID e36f0357-5680-4455-9d17-65dc2ab46145</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PROVEEDOR</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Entity</_hname>
+							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:37:11</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Catalogo.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Catalogo</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S1-2-7</_hname>
+					<_hid type="a">GUID 8b1e78c8-8f4c-4d2e-bc52-0f47e1e4ea94</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:37:11</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:37:11</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:22:29</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 4318b93a-796c-4406-925f-f123732ce492</value>
+				<value>GUID 12ae5937-96e4-4e00-983b-a87cd6956b18</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 4318b93a-796c-4406-925f-f123732ce492</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GESTIONARPROVEEDOR</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:27:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:27:33</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 6a37eae1-916e-4988-9256-f004467d9d15</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID d825f71c-e5da-433f-847b-f01d59a871fc</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 12ae5937-96e4-4e00-983b-a87cd6956b18</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GESTIONARINVENTARIO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:37:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:37:11</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b8b3059d-56cc-4c00-b8e2-1c99dd95ba9e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID eb3325ef-e8f8-4ec2-b501-9d74f74e1889</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID ca0c72b9-5e03-4bbd-8e30-1e3e71714883</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CI_HISTORIALMOVIMIENTOS</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Boundary</_hname>
+							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:41:39</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Inventario.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Inventario</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S3-4-5-8</_hname>
+					<_hid type="a">GUID 5c349e12-1bdb-42e9-94c8-f33214b8252f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:41:39</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:41:39</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:41:39</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 611d448e-8fe9-4214-9bf2-f21c0ce34058</value>
+				<value>GUID 85ac1019-85b5-4201-860c-1e778d814710</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 611d448e-8fe9-4214-9bf2-f21c0ce34058</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENUPRINCIPAL</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:37:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:37:41</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID aa03e6dc-bde4-4de3-a8b6-4e026f75faf6</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID fcfcecb7-3a1d-491c-b487-805335cf12c6</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 85ac1019-85b5-4201-860c-1e778d814710</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GESTIONARINVENTARIO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:37:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:37:49</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b8b3059d-56cc-4c00-b8e2-1c99dd95ba9e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 2778584b-2990-435a-92dc-010b4b3e4b57</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 118034f8-96b1-4964-99ae-cbaa6f232e5f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CI_PANELINVENTARIO</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Boundary</_hname>
+							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:41:39</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Inventario.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Inventario</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S3-4-5-8</_hname>
+					<_hid type="a">GUID 5c349e12-1bdb-42e9-94c8-f33214b8252f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:41:39</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:41:39</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:41:39</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 5822550b-01cb-443c-aad0-de551cbb74fb</value>
+				<value>GUID 1559fdae-a2f8-4ec2-82f5-b3b0b19ac1ab</value>
+				<value>GUID fd14a7f7-f0a8-4ce4-9140-933afb4a817d</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 5822550b-01cb-443c-aad0-de551cbb74fb</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENUPRINCIPAL</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:33:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:33:17</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID aa03e6dc-bde4-4de3-a8b6-4e026f75faf6</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 953aa2ef-dee2-4143-ae5d-b61de13e84dc</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 1559fdae-a2f8-4ec2-82f5-b3b0b19ac1ab</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GESTIONARINVENTARIO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:33:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:33:57</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b8b3059d-56cc-4c00-b8e2-1c99dd95ba9e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 8b4dc0be-5329-4c74-880d-42e3343fea96</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID fd14a7f7-f0a8-4ce4-9140-933afb4a817d</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_REGISTRARMOVIMIENTO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:36:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:36:6</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 09827a74-3c63-45af-b4dc-080dc06f531e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 6fe7aeba-9ffe-4c4f-b124-79192dda457b</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 09827a74-3c63-45af-b4dc-080dc06f531e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CI_REGISTRARMOVIMIENTO</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Boundary</_hname>
+							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:41:39</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Inventario.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Inventario</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S3-4-5-8</_hname>
+					<_hid type="a">GUID 5c349e12-1bdb-42e9-94c8-f33214b8252f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:41:39</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:41:39</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:41:39</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 6fe7aeba-9ffe-4c4f-b124-79192dda457b</value>
+				<value>GUID 7c343366-f3db-4983-8a04-5ac9ef0b9e53</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 6fe7aeba-9ffe-4c4f-b124-79192dda457b</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_PANELINVENTARIO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:36:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:36:6</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 118034f8-96b1-4964-99ae-cbaa6f232e5f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID fd14a7f7-f0a8-4ce4-9140-933afb4a817d</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 7c343366-f3db-4983-8a04-5ac9ef0b9e53</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GESTIONARINVENTARIO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:36:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:36:54</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b8b3059d-56cc-4c00-b8e2-1c99dd95ba9e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 7d7cc6ee-9e49-42e6-8b34-8edb793b33b8</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID b8b3059d-56cc-4c00-b8e2-1c99dd95ba9e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CC_GESTIONARINVENTARIO</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Control</_hname>
+							<_hid type="a">GUID 83c41daa-5f8e-446a-a638-1dc09ef00861</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:41:39</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Inventario.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Inventario</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S3-4-5-8</_hname>
+					<_hid type="a">GUID 5c349e12-1bdb-42e9-94c8-f33214b8252f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:41:39</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:41:39</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:41:39</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 8b4dc0be-5329-4c74-880d-42e3343fea96</value>
+				<value>GUID 6b3f0613-e75d-427e-bd7c-a4c81898da3d</value>
+				<value>GUID 318eb57a-d740-49e5-a423-cf1bd1c09df8</value>
+				<value>GUID 7d7cc6ee-9e49-42e6-8b34-8edb793b33b8</value>
+				<value>GUID eb3325ef-e8f8-4ec2-b501-9d74f74e1889</value>
+				<value>GUID 3cbbb075-fed6-47f2-bd56-bcb5d914706a</value>
+				<value>GUID 2778584b-2990-435a-92dc-010b4b3e4b57</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 8b4dc0be-5329-4c74-880d-42e3343fea96</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_PANELINVENTARIO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:33:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:33:57</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 118034f8-96b1-4964-99ae-cbaa6f232e5f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 1559fdae-a2f8-4ec2-82f5-b3b0b19ac1ab</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 6b3f0613-e75d-427e-bd7c-a4c81898da3d</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsPRODUCTO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:34:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:34:53</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID c792e89c-4f31-4aa7-bc6e-b20a02626c96</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 4ea1fa0a-5cbc-4d07-aa4a-9151481c6e94</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 318eb57a-d740-49e5-a423-cf1bd1c09df8</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMOVIMIENTO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:36:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:36:38</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 6fdf6cb5-0fe9-4340-829f-fa33d7a82490</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 476c811d-7328-4926-aad8-18b881803aad</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 7d7cc6ee-9e49-42e6-8b34-8edb793b33b8</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_REGISTRARMOVIMIENTO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:36:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:36:54</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 09827a74-3c63-45af-b4dc-080dc06f531e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 7c343366-f3db-4983-8a04-5ac9ef0b9e53</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID eb3325ef-e8f8-4ec2-b501-9d74f74e1889</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsPROVEEDOR</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:37:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:37:11</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID e36f0357-5680-4455-9d17-65dc2ab46145</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 12ae5937-96e4-4e00-983b-a87cd6956b18</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 3cbbb075-fed6-47f2-bd56-bcb5d914706a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsUSUARIO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:37:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:37:19</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID a53c4305-c7be-481e-8224-a29c5e267f83</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 756d9d86-90a4-4287-9b06-6cadd3845373</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 2778584b-2990-435a-92dc-010b4b3e4b57</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_HISTORIALMOVIMIENTOS</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:37:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:37:49</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID ca0c72b9-5e03-4bbd-8e30-1e3e71714883</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 85ac1019-85b5-4201-860c-1e778d814710</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 6fdf6cb5-0fe9-4340-829f-fa33d7a82490</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MOVIMIENTO</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Entity</_hname>
+							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:45:9</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion_Inventario.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Gestion_Inventario</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S3-4-5-8</_hname>
+					<_hid type="a">GUID 5c349e12-1bdb-42e9-94c8-f33214b8252f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:45:9</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:45:9</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:41:39</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 476c811d-7328-4926-aad8-18b881803aad</value>
+				<value>GUID a085f445-7ae2-4404-8217-21828819e696</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 476c811d-7328-4926-aad8-18b881803aad</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GESTIONARINVENTARIO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:36:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:36:38</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID b8b3059d-56cc-4c00-b8e2-1c99dd95ba9e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 318eb57a-d740-49e5-a423-cf1bd1c09df8</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID a085f445-7ae2-4404-8217-21828819e696</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GENERARREPORTE</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:45:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:45:9</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 202bd4a5-7134-481f-82d2-b0a4a4ec64f5</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 2f4ced33-4281-49e4-aa02-2cdb243b6983</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID cc7e6568-bfd8-4d9b-8cd5-80a9c15caf75</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CI_NOTITICACIONALERTA</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Boundary</_hname>
+							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:47:46</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Reportes_Control.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Reportes_Control</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S6-10-12</_hname>
+					<_hid type="a">GUID 260e2650-02a5-44e6-a031-2403c8cc622f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:47:46</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:47:46</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:47:46</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 739d7590-91bc-4487-8363-4e9aff81f058</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 739d7590-91bc-4487-8363-4e9aff81f058</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GENERARREPORTE</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:46:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:46:2</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 202bd4a5-7134-481f-82d2-b0a4a4ec64f5</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 57097eaa-1978-487b-9047-f0f844feb5d0</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 4a53e3b1-6c65-45f7-b432-4354bb893712</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CI_PANELREPORTES</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Boundary</_hname>
+							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:47:46</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Reportes_Control.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Reportes_Control</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S6-10-12</_hname>
+					<_hid type="a">GUID 260e2650-02a5-44e6-a031-2403c8cc622f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:47:46</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:47:46</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:47:46</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 6b665170-f8f7-4129-99af-e7f4f1065921</value>
+				<value>GUID 35ce0864-9037-442a-9c42-21e0000332ea</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 6b665170-f8f7-4129-99af-e7f4f1065921</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENUPRINCIPAL</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:44:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:44:27</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID aa03e6dc-bde4-4de3-a8b6-4e026f75faf6</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 30d4e789-5dd9-41e3-af9f-02a00732a5af</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 35ce0864-9037-442a-9c42-21e0000332ea</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GENERARREPORTE</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:44:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:44:38</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 202bd4a5-7134-481f-82d2-b0a4a4ec64f5</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 2ae0a5b8-9a77-4cd4-a8f9-674172fb1a91</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID c7c96419-f346-4a0b-9cad-a28e1eba0a8d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CI_VISTAPREVIAREPORTE</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Boundary</_hname>
+							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:47:46</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Reportes_Control.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Reportes_Control</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S6-10-12</_hname>
+					<_hid type="a">GUID 260e2650-02a5-44e6-a031-2403c8cc622f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:47:46</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:47:46</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:47:46</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 98b16f61-94f6-4cb7-b424-c6a1dfc1f778</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 98b16f61-94f6-4cb7-b424-c6a1dfc1f778</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCC_GENERARREPORTE</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:45:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:45:32</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 202bd4a5-7134-481f-82d2-b0a4a4ec64f5</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID e9b9c198-cc8d-4429-8bfb-8a1edcf47982</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 202bd4a5-7134-481f-82d2-b0a4a4ec64f5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CC_GENERARREPORTE</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DISE%D1O\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Control</_hname>
+							<_hid type="a">GUID 83c41daa-5f8e-446a-a638-1dc09ef00861</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.17.2021::22:47:46</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Reportes_Control.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Reportes_Control</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S6-10-12</_hname>
+					<_hid type="a">GUID 260e2650-02a5-44e6-a031-2403c8cc622f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:47:46</_modifiedTime>
+			<weakCGTime type="a">7.17.2021::22:47:46</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:47:46</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 2ae0a5b8-9a77-4cd4-a8f9-674172fb1a91</value>
+				<value>GUID 282d4dfe-7791-42af-b6e2-882b1a5c41cd</value>
+				<value>GUID 2f4ced33-4281-49e4-aa02-2cdb243b6983</value>
+				<value>GUID e9b9c198-cc8d-4429-8bfb-8a1edcf47982</value>
+				<value>GUID 57097eaa-1978-487b-9047-f0f844feb5d0</value>
+			</AggregatesList>
+		</IClass>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 2ae0a5b8-9a77-4cd4-a8f9-674172fb1a91</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_PANELREPORTES</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:44:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:44:38</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 4a53e3b1-6c65-45f7-b432-4354bb893712</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 35ce0864-9037-442a-9c42-21e0000332ea</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 282d4dfe-7791-42af-b6e2-882b1a5c41cd</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsPRODUCTO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:45:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:45:3</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID c792e89c-4f31-4aa7-bc6e-b20a02626c96</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 19c2fec6-ce78-4232-aa2f-94e8e6dbbb9d</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 2f4ced33-4281-49e4-aa02-2cdb243b6983</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMOVIMIENTO</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:45:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:45:9</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 6fdf6cb5-0fe9-4340-829f-fa33d7a82490</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID a085f445-7ae2-4404-8217-21828819e696</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID e9b9c198-cc8d-4429-8bfb-8a1edcf47982</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_VISTAPREVIAREPORTE</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:45:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:45:32</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID c7c96419-f346-4a0b-9cad-a28e1eba0a8d</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 98b16f61-94f6-4cb7-b424-c6a1dfc1f778</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 57097eaa-1978-487b-9047-f0f844feb5d0</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_NOTITICACIONALERTA</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:46:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:46:2</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID cc7e6568-bfd8-4d9b-8cd5-80a9c15caf75</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 739d7590-91bc-4487-8363-4e9aff81f058</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IActor type="e">
+			<_id type="a">GUID 23e59ae9-c8aa-4ac4-8e7b-038cfdf2d8eb</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Administrador</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">7.17.2021::22:23:34</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
+					<_hsubsystem type="a">MAnalisis::Seguridad</_hsubsystem>
+					<_hname type="a">Diagrama Robustez CU-S11</_hname>
+					<_hid type="a">GUID 4bfe0f90-4cee-4ba7-8616-b1be080b1e20</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.17.2021::22:23:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">7.17.2021::22:23:34</weakCGTime>
+			<strongCGTime type="a">7.17.2021::22:4:52</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 0f54d79d-0f7a-46fe-8b00-b5610605f241</value>
+				<value>GUID 24b1ecca-651e-45da-a4b6-82e7d4194a0e</value>
+			</AggregatesList>
+		</IActor>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 0f54d79d-0f7a-46fe-8b00-b5610605f241</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_INGRESAR</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:23:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:23:18</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID ea5670f2-3273-435c-b8ac-3348b11919df</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 8339fa0e-9520-46fb-a054-87a05afd15d7</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 24b1ecca-651e-45da-a4b6-82e7d4194a0e</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENUPRINCIPAL</_name>
+			<_modifiedTimeWeak type="a">7.17.2021::22:23:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.17.2021::22:23:34</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID aa03e6dc-bde4-4de3-a8b6-4e026f75faf6</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 82726713-ed78-4aa6-bc51-6ba1408b28fa</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
